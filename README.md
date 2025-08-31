@@ -4,7 +4,7 @@
 [![iOS](https://img.shields.io/badge/iOS-16%2B-black.svg?style=flat\&logo=apple)](https://developer.apple.com/ios/)
 [![Xcode](https://img.shields.io/badge/Xcode-14%2B-blue.svg?style=flat\&logo=xcode)](https://developer.apple.com/xcode/)
 
-RoomPlan Example App is a Swift-based iOS application showcasing **Apple's RoomPlan API**, built on **ARKit** and **LiDAR**. It enables real-time scanning of indoor environments, generating precise **3D floor plans** with furniture detection. Export scans in **USD/USDZ** formats and refine them in professional tools like **Cinema 4D, Shapr3D, and AutoCAD**.
+RoomPlan App is a Swift-based iOS application showcasing **Apple's RoomPlan API**, built on **ARKit** and **LiDAR**. It enables real-time scanning of indoor environments, generating precise **3D floor plans** with furniture detection. Export scans in **USD/USDZ** formats and refine them in professional tools like **Cinema 4D, Shapr3D, and AutoCAD**.
 
 ---
 
