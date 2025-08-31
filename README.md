@@ -107,7 +107,3 @@ Exported files can be used in:
 * [USD/USDZ File Format](https://developer.apple.com/augmented-reality/tools/)
 
 ---
-
-🔥 With this README, your repo will look **professional, polished, and developer-friendly**.
-
-Would you like me to also **design a clean project banner image (with RoomPlan + ARKit theme)** to put at the very top for maximum GitHub appeal?
