@@ -7,14 +7,18 @@
 RoomPlan App is a Swift-based iOS application showcasing **Apple's RoomPlan API**, built on **ARKit** and **LiDAR**. It enables real-time scanning of indoor environments, generating precise **3D floor plans** with furniture detection. Export scans in **USD/USDZ** formats and refine them in professional tools like **Cinema 4D, Shapr3D, and AutoCAD**.
 
 ---
+## 📸 Demo
+
+![App Demo]
 
 <div align="center">
-  <video width="600" controls>
+  <video width="600" autoplay loop muted playsinline>
     <source src="output.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
+---
 ## ✨ Features
 
 * 📏 **Accurate 3D Floor Plans** – Detects walls, doors, windows, and room layout.
@@ -89,12 +93,6 @@ Exported files can be used in:
 * **Shapr3D**
 * **AutoCAD**
 * Any tool supporting **USD/USDZ** formats
-
----
-
-## 📸 Demo
-
-![App Demo](output.gif)
 
 ---
 
