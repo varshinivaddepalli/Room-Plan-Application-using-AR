@@ -12,7 +12,7 @@ RoomPlan App is a Swift-based iOS application showcasing **Apple's RoomPlan API*
 ![App Demo]
 
 <div align="center">
-  <img src="output.gif" alt="App Demo" width="600"/>
+  <img src="output.gif" alt="App Demo" width="300"/>
 </div>
 
 ---
