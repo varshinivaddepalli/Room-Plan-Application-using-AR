@@ -8,6 +8,13 @@ RoomPlan App is a Swift-based iOS application showcasing **Apple's RoomPlan API*
 
 ---
 
+<div align="center">
+  <video width="600" controls>
+    <source src="output.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## ✨ Features
 
 * 📏 **Accurate 3D Floor Plans** – Detects walls, doors, windows, and room layout.
