@@ -12,10 +12,7 @@ RoomPlan App is a Swift-based iOS application showcasing **Apple's RoomPlan API*
 ![App Demo]
 
 <div align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="output.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="output.gif" alt="App Demo" width="600"/>
 </div>
 
 ---
